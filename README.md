@@ -2,6 +2,12 @@
 
 Colorpicker Component Based on alpinejs + blade + tailwindcss
 
+## Requirement
+
+- Laravel
+- Tailwindcss
+- Alpinejs
+
 ## Usage
 
 ```blade
