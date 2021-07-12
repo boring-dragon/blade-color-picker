@@ -8,6 +8,12 @@ Colorpicker Component Based on alpinejs + blade + tailwindcss
 - Tailwindcss
 - Alpinejs
 
+## Installation
+
+```
+composer require boring-dragon/blade-color-picker
+```
+
 ## Usage
 
 ```blade
