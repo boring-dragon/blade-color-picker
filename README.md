@@ -15,3 +15,5 @@ Colorpicker Component Based on alpinejs + blade + tailwindcss
 />
 
 ```
+
+![preview](preview.png)
