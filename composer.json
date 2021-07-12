@@ -1,0 +1,27 @@
+{
+	"name": "boring-dragon/blade-color-picker",
+	"description": "Colorpicker Component Based on alpinejs + blade + tailwindcss",
+	"require": {
+		"php": "^7.4|^8.0",
+		"illuminate/support": "^7.0|^8.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"BoringDragon\\BladeColorPicker\\": "src/"
+		}
+	},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"BoringDragon\\BladeColorPicker\\BladeColorPickerServiceProvider"
+			]
+		}
+	},
+	"authors": [
+		{
+			"name": "Mohamed jinas",
+			"email": "j@live.mv"
+		}
+	],
+    "license": "MIT"
+}
