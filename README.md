@@ -30,4 +30,4 @@ composer require boring-dragon/blade-color-picker
 
 ![preview](preview.png)
 
-Original Component: https://tailwindcomponents.com/component/color-picker-with-tailwindcss-and-alpinejs
+Original UI Component: https://tailwindcomponents.com/component/color-picker-with-tailwindcss-and-alpinejs
